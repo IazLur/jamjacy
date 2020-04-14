@@ -170,7 +170,7 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 10 - III B La guerre, qui engendre beaucoup de morts ig, est à éviter. Chaque mort d'une guerre est applicable à la comptabilisation.
 
-10 - IV Lorsqu'un nouveau citoyen avéré rejoins le monde, il doit se mettre en alliance avec tout le monde.
+10 - IV Lorsqu'un nouveau citoyen avéré rejoint le monde, il doit se mettre en alliance avec tout le monde.
 
 10 - V Le PvP (le fait de pouvoir tuer quelqu'un d'autre) est activé seulement entre les alliés. Cela permet d'éviter le freekill lié au freeaccess.
 
