@@ -144,7 +144,7 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 9 - IV Une déclaration de guerre entre 2 territoires doit se faire officiellement et approuvé par l'Empereur avec des motifs valables, et dure 1 jour *(in game)* le jour suivant l'autorisation de l'Empereur.
 
-9 - IV B Une déclaration de guerre suprise peut se faire dans les mêmes conditions mais sans que le village ciblé ne soit au courant à l'avance, contre une somme de 10000 Jetons versés à l'Empereur.
+9 - IV B Une déclaration de guerre surprise peut se faire dans les mêmes conditions mais sans que le village ciblé ne soit au courant à l'avance, contre une somme de 10000 Jetons versés à l'Empereur.
 
 9 - V Il est interdit de détruire des bâtiments en temps de guerre.
 
