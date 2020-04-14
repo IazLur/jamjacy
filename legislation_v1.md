@@ -118,9 +118,9 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 8 - V Une mairie peut produire, vendre et acheter n'importe quel produit avec de la monnaie.
 
-8 - VI Le maire peut créer et gérer un banque avec des armoires blindées pour compte bancaire citoyen.
+8 - VI Le maire peut créer et gérer une banque avec des armoires blindées pour chaque compte bancaire citoyen.
 
-8 - VII Le maire doit stocker et protéger l'argent du peuple dans la banque, et verser régulièrement un taux d'intérêt à ses investisseurs.
+8 - VII Le maire doit stocker et protéger l'argent du peuple dans la banque, et verser régulièrement un taux d'intérêt équivalent à l'argent stocké de chaque compte de 0,5% arrondi au chiffre du dessus, dans une limite de 50 Jetons par compte.
 
 8 - VIII Le maire peut être destitué par l'Empereur et l'Empereur peut en élire un autre.
 
