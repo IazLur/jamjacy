@@ -85,3 +85,16 @@ La tentative de meurtre d'un citoyen engendre une peine de catégorie 1.
 
 8 - VII
 Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Empereur a le pouvoir de prononcer n'importe quelle peine.
+
+**Article 7 - Entreprises et habitations**
+
+7 - I Une entreprise possède une parcelle de construction pour fabriquer un seul et unique produit en masse déstiné à la revente de masse.
+
+7 - I B Une entreprise peut choisir d'elle même la valeur de ses produits et tout achat ou vente doit se faire par le biais de monnaie.
+
+7 - II Une parcelle avec un permis d'entreprise coûtent 1000 Jetons.
+
+7 - III Une parcelle d'habitation personnelle est fournie gratuitement dès l'installation d'un nouveau citoyen.
+
+7 - IV Une nouvelle parcelle d'habitation personnelle pour un même citoyen coûte 600 Jetons.
+
