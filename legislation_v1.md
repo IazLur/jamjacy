@@ -63,6 +63,8 @@ Le cumul des peines en Jetons permettent le changement de catégorie global.
 5 - VI B
 Un cumul de plus de 20000 Jetons engendre une peine de mort sous acte prononcé de l'Empereur.
 
+5 - VII Est considéré comme du travail forcé un travail devant être effectué dans l'immédiat dont les bénéfices perçus doivent permettre de rembourser une peine ou une somme due.
+
 **Article 6 - Dégradations**
 
 6 - I 
@@ -131,4 +133,32 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 8 - X La Capitale du monde s'appelle Jamjacy
 
 8 - X Le monde s'appelle L'Empire du Charcuteur
+
+**Article 9 - Territoire et guerre**
+
+9 - I Est considéré comme un territoire, un village ainsi que la zone divisée par deux le séparant des autres villages.
+
+9 - II Un territoire comptant plus de 6 habitants, peut, par le biais du maire, émanciper un citoyen pour qu'il crée son propre village.
+
+9 - III B Le maire qui a émancipé le citoyen choisi le lieu où sera placée la nouvelle mairie.
+
+9 - IV Une déclaration de guerre entre 2 territoires doit se faire officiellement et approuvé par l'Empereur avec des motifs valables, et dure 1 jour *(in game)* le jour suivant l'autorisation de l'Empereur.
+
+9 - IV B Une déclaration de guerre suprise peut se faire dans les mêmes conditions mais sans que le village ciblé ne soit au courant à l'avance, contre une somme de 10000 Jetons versés à l'Empereur.
+
+9 - V Il est interdit de détruire des bâtiments en temps de guerre.
+
+9 - V B Les bâtiments peuvent être endommagés suite à des échanges de tir de balles non explosives.
+
+9 - V C Tout ce qui est explosif est proscrit sauf mine en temps de guerre.
+
+9 - VI Une guerre permet aux deux villages de tuer n'importe quel citoyen y vivant sans peine *(mort ig)*.
+
+**Article 10 - Mort rp et mort ig**
+
+10 - I Est considéré comme mort rp un bannissement définitif du serveur.
+
+10 - II Est considéré comme mort in-game une mort simple du personnage fictif et réapparition.
+
+10 - III L'Empereur peut décider à n'importe quel moment de comptabiliser le nombre de morts ig de chaque citoyen depuis la dernière même comptabilisation et faire payer 100 Jetons pour chaque mort d'un même citoyen à ce citoyen.
 
