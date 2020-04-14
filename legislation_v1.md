@@ -160,7 +160,7 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 9 - VIII B Le nombre de morts ig du village ayant gagné la bataille devra tout de même payer l'Empereur.
 
-**Article 10 - Mort rp et mort ig**
+**Article 10 - Mort rp, ig et pvp**
 
 10 - I Est considéré comme mort rp un bannissement définitif du serveur.
 
@@ -169,4 +169,8 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 10 - III L'Empereur peut décider à n'importe quel moment de comptabiliser le nombre de morts ig de chaque citoyen depuis la dernière même comptabilisation et faire payer 100 Jetons pour chaque mort d'un même citoyen à ce citoyen.
 
 10 - III B La guerre, qui engendre beaucoup de morts ig, est à éviter. Chaque mort d'une guerre est applicable à la comptabilisation.
+
+10 - IV Lorsqu'un nouveau citoyen avéré rejoins le monde, il doit se mettre en alliance avec tout le monde.
+
+10 - V Le PvP (le fait de pouvoir tuer quelqu'un d'autre) est activé seulement entre les alliés. Cela permet d'éviter le freekill lié au freeaccess.
 
