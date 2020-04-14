@@ -98,3 +98,37 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 7 - IV Une nouvelle parcelle d'habitation personnelle pour un même citoyen coûte 600 Jetons.
 
+7 - V Un citoyen peut acheter une parcelle d'entreprise pour location qu'il ne pourra pas utiliser lui-même pour 250 Jetons.
+
+7 - VI Un citoyen ayant loué sa parcelle d'entreprise pour location à une nouvelle entreprise gratuitement percevra 10% des bénéfices de l'entreprise après déclaration fiscale.
+
+7 - VII Les entreprises doivent déclarer après chaque bloodmoon l'argent qu'ils ont récolté et verser 30% des bénéfices à l'Empereur.
+
+7 - VIII L'Empereur versera un fond social de 300 Jetons à chaque maire après chaque bloodmoon qui verseront à leur tour 10 Jetons de fond social à chaque citoyen.
+
+**Article 8 - Empire**
+
+8 - I Le palais de l'Empereur est un lieu inviolable où règne l'Empereur.
+
+8 - II L'Empereur a un pouvoir absolu sur tout le reigne de la civilisation.
+
+8 - III L'Empereur peut gérer n'importe quel village.
+
+8 - IV Un maire gère un seul et unique village.
+
+8 - V Une mairie peut produire, vendre et acheter n'importe quel produit avec de la monnaie.
+
+8 - VI Le maire peut créer et gérer un banque avec des armoires blindées pour compte bancaire citoyen.
+
+8 - VII Le maire doit stocker et protéger l'argent du peuple dans la banque, et verser régulièrement un taux d'intérêt à ses investisseurs.
+
+8 - VIII Le maire peut être destitué par l'Empereur et l'Empereur peut en élire un autre.
+
+8 - IX Un village d'un maire ne peut pas avoir plus de 10 habitants.
+
+8 - IX B La Capitale (village où se situe le palais de l'Empereur) peut avoir jusqu'à 30 habitants.
+
+8 - X La Capitale du monde s'appelle Jamjacy
+
+8 - X Le monde s'appelle L'Empire du Charcuteur
+
