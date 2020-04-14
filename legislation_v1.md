@@ -154,6 +154,12 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 9 - VI Une guerre permet aux deux villages de tuer n'importe quel citoyen y vivant sans peine *(mort ig)*.
 
+9 - VII Une guerre dont le nombre de victimes d'un village est supérieur à l'autre détermine la victoire.
+
+9 - VIII La victoire permet au village de gagner la somme de comptabilisation de Jetons liés au maire du nombre de morts ig total du village opposé au lieu d'être versé à l'Empereur.
+
+9 - VIII B Le nombre de morts ig du village ayant gagné la bataille devra tout de même payer l'Empereur.
+
 **Article 10 - Mort rp et mort ig**
 
 10 - I Est considéré comme mort rp un bannissement définitif du serveur.
@@ -161,4 +167,6 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 10 - II Est considéré comme mort in-game une mort simple du personnage fictif et réapparition.
 
 10 - III L'Empereur peut décider à n'importe quel moment de comptabiliser le nombre de morts ig de chaque citoyen depuis la dernière même comptabilisation et faire payer 100 Jetons pour chaque mort d'un même citoyen à ce citoyen.
+
+10 - III B La guerre, qui engendre beaucoup de morts ig, est à éviter. Chaque mort d'une guerre est applicable à la comptabilisation.
 
