@@ -114,6 +114,12 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 7 - X Une caravane peut employer l'utilisation d'armes contendantes pour se défendre. Il n'est pas autorisé de voler une caravane avec une arme à feu.
 
+7 - XI Une entreprise peut louer un citoyen en tant que mercenaire pour protéger une caravane ou une entreprise illégale dans le but de la protéger.
+
+7 - XII Est considéré comme entreprise illégale une entreprise déclarée fabricant des Fort Bites, de l'Alcool fort ou des armes de catégorie A.
+
+7 - XIII Il est autorisé de tenter de détruire ou de voler une entreprise illégale sans risque de peine.
+
 **Article 8 - Empire**
 
 8 - I Le palais de l'Empereur est un lieu inviolable où règne l'Empereur.
@@ -179,4 +185,3 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 10 - IV Lorsqu'un nouveau citoyen avéré rejoint le monde, il doit se mettre en alliance avec tout le monde.
 
 10 - V Le PvP (le fait de pouvoir tuer quelqu'un d'autre) est activé seulement entre les alliés. Cela permet d'éviter le freekill lié au freeaccess.
-
