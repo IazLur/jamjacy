@@ -1,6 +1,11 @@
 # **Législation de l'Empire**
 
-    Ci-dessous se trouve le texte sacré, référentiel et abouti sur toutes les questions que peuvent se poser les citoyens. Chacune des règles a été réfléchie mais peut être réformée sur autorisation de l'Empereur. Ces règles sont obligatoires à respecter pour garder son statut de citoyen de l'Empire.
+> Ci-dessous se trouve le texte sacré, référentiel et abouti sur toutes
+> les questions que peuvent se poser les citoyens. Chacune des règles a
+> été réfléchie mais peut être réformée sur autorisation de l'Empereur.
+> Ces règles sont obligatoires à respecter pour garder son statut de
+> citoyen de l'Empire. Dans le cadre d'un vide juridique, l'Empereur et les maires 
+> sont en aptitude à combler temporairement par des règles justes non approuvée.
 
 ## **Article 1 - Fabrication**
 
@@ -69,10 +74,10 @@ Est considéré comme du travail forcé un travail devant être effectué dans l
 ## **Article 6 - Dégradations**
 
 **6 - I**\
-Dégrader un block d'un joueur sur sa parcelle d'habitation est condamnable d'une peine de catégorie 4 pour chaque block.
+Dégrader un bloc d'un joueur sur sa parcelle d'habitation est condamnable d'une peine de catégorie 4 pour chaque bloc.
 
 **6 - II**\
-Dégrader un block du batiment de l'Empereur engendre une peine de mort.
+Dégrader un bloc du bâtiment de l'Empereur engendre une peine de mort.
 
 **6 - III**\
 Tenter d'assassiner l'Empereur engendre la peine de mort.
@@ -81,7 +86,7 @@ Tenter d'assassiner l'Empereur engendre la peine de mort.
 Le vol engendre une peine de catégorie 3.
 
 **6 - V**\
-L'aggression physique ou verbale engendre une peine de catégorie 2.
+L’agression physique ou verbale engendre une peine de catégorie 2.
 
 **7 - VI**\
 La tentative de meurtre d'un citoyen engendre une peine de catégorie 1.
@@ -92,7 +97,7 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 ## **Article 7 - Entreprises et habitations**
 
 **7 - I**\
-Une entreprise possède une parcelle de construction pour fabriquer un seul et unique produit en masse déstiné à la revente de masse.
+Une entreprise possède une parcelle de construction pour fabriquer un seul et unique produit en masse destiné à la revente de masse.
 
 **7 - I B**\
 Une entreprise peut choisir d'elle même la valeur de ses produits et tout achat ou vente doit se faire par le biais de monnaie.
@@ -122,10 +127,10 @@ L'Empereur versera un fond social de 300 Jetons à chaque maire après chaque bl
 Est considéré comme une caravane commerciale un groupe d'au moins 2 personnes armées, avec au moins 2 véhicules motorisés, transportant une grande quantité de produit unique d'une entreprise d'un village à un autre.
 
 **7 - IX B**\
-La caravane principale, le véhicule motorisé principal, doit contenir dans son coffre les marchandises. Ce coffre doit être dévérouillé pendant tout le trajet.
+La caravane principale, le véhicule motorisé principal, doit contenir dans son coffre les marchandises. Ce coffre doit être déverrouillé pendant tout le trajet.
 
 **7 - X**\
-Une caravane peut employer l'utilisation d'armes contendantes pour se défendre. Il n'est pas autorisé de voler une caravane avec une arme à feu.
+Une caravane peut employer l'utilisation d'armes contondantes pour se défendre. Il n'est pas autorisé de voler une caravane avec une arme à feu.
 
 **7 - XI**\
 Une entreprise peut louer un citoyen en tant que mercenaire pour protéger une caravane ou une entreprise illégale dans le but de la protéger.
@@ -136,13 +141,31 @@ Est considéré comme entreprise illégale une entreprise déclarée fabricant d
 **7 - XIII**\
 Il est autorisé de tenter de détruire ou de voler une entreprise illégale sans risque de peine.
 
+**7 - IX**\
+Il est interdit d'avoir 2 entreprise vendant le même produit au sein d'un même village.
+
+**7 - X**\
+Un citoyen peut avoir jusqu'à 3 entreprises.
+
+**7 - X B**\
+Si un citoyen possède 3 entreprises, il peut payer 10000 Jetons pour créer une entreprise multinationale.
+
+** 7 - XI**\
+Une entreprise multinationale d'un citoyen peut produire et vendre les mêmes produits que ses autres entreprises.
+
+**7 - XII**\
+L'entreprise multinationale permet une grande superficie de construction pour booster la production et la vente en gros (grossiste).
+
+**7 - XIII**\
+L'entreprise multinationale peut avoir 1 employé engagé à plein temps à un salaire fixé à l'heure ig.
+
 ## **Article 8 - Empire**
 
 **8 - I**\
 Le palais de l'Empereur est un lieu inviolable où règne l'Empereur.
 
 **8 - II**\
-L'Empereur a un pouvoir absolu sur tout le reigne de la civilisation.
+L'Empereur a un pouvoir absolu sur tout le règne de la civilisation.
 
 **8 - III**\
 L'Empereur peut gérer n'importe quel village.
@@ -169,10 +192,10 @@ Un village d'un maire ne peut pas avoir plus de 10 habitants.
 La Capitale (village où se situe le palais de l'Empereur) peut avoir jusqu'à 30 habitants.
 
 **8 - X**\
-La Capitale du monde s'appelle Jamjacy
+La Capitale du monde s'appelle Jamjacy.
 
 **8 - XI**\
-Le monde s'appelle L'Empire du Charcuteur
+Le monde s'appelle L'Empire du Charcuteur.
 
 ## **Article 9 - Territoire et guerre**
 
