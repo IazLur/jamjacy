@@ -150,7 +150,7 @@ Un citoyen peut avoir jusqu'à 3 entreprises.
 **7 - X B**\
 Si un citoyen possède 3 entreprises, il peut payer 10000 Jetons pour créer une entreprise multinationale.
 
-** 7 - XI**\
+**7 - XI**\
 Une entreprise multinationale d'un citoyen peut produire et vendre les mêmes produits que ses autres entreprises.
 
 **7 - XII**\
