@@ -142,7 +142,7 @@ Est considéré comme entreprise illégale une entreprise déclarée fabricant d
 Il est autorisé de tenter de détruire ou de voler une entreprise illégale sans risque de peine.
 
 **7 - IX**\
-Il est interdit d'avoir 2 entreprise vendant le même produit au sein d'un même village.
+Il est interdit d'avoir 2 entreprises vendant le même produit au sein d'un même village.
 
 **7 - X**\
 Un citoyen peut avoir jusqu'à 3 entreprises.
