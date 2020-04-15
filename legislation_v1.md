@@ -108,6 +108,12 @@ Pour tout conflit avéré ou acte négatif envers le peuple ou la ville, l'Emper
 
 7 - VIII L'Empereur versera un fond social de 300 Jetons à chaque maire après chaque bloodmoon qui verseront à leur tour 10 Jetons de fond social à chaque citoyen.
 
+7 - IX Est considéré comme une caravane commerciale un groupe d'au moins 2 personnes armées, avec au moins 2 véhicules motorisés, transportant une grande quantité de produit unique d'une entreprise d'un village à un autre.
+
+7 - IX B La caravane principale, le véhicule motorisé principal, doit contenir dans son coffre les marchandises. Ce coffre doit être dévérouillé pendant tout le trajet.
+
+7 - X Une caravane peut employer l'utilisation d'armes contendantes pour se défendre. Il n'est pas autorisé de voler une caravane avec une arme à feu.
+
 **Article 8 - Empire**
 
 8 - I Le palais de l'Empereur est un lieu inviolable où règne l'Empereur.
