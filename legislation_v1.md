@@ -159,6 +159,18 @@ L'entreprise multinationale permet une grande superficie de construction pour bo
 **7 - XIII**\
 L'entreprise multinationale peut avoir 1 employé engagé à plein temps à un salaire fixé à l'heure ig.
 
+**7 - IX**\
+Les entreprises auront possession gratuitement d'un coffre blindé.
+
+**7 - X**\
+Les entreprises sont dans l'obligation de mettre tout leur bénéfice dans le coffre blindé et de ne pas y toucher.
+
+**7 - XI**\
+Les entreprises sont dans l'autorisation de demander à un banquier où à l'Empereur de percevoir leur argent dans leur coffre blindé.
+
+**7 - XI B**\
+Le banquier ou l'Empereur doit verser 30% de la somme totale du coffre blindé au maire du village et le reste à l'entrepreneur.
+
 ## **Article 8 - Empire**
 
 **8 - I**\
