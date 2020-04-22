@@ -209,6 +209,9 @@ La Capitale du monde s'appelle Jamjacy.
 **8 - XI**\
 Le monde s'appelle L'Empire du Charcuteur.
 
+**8 - XII**\
+Le maire doit verser une somme de 10 Jetons minimum de fond social à chaque levé de soleil à tous les habitants.
+
 ## **Article 9 - Territoire et guerre**
 
 **9 - I**\
@@ -266,3 +269,44 @@ Lorsqu'un nouveau citoyen avéré rejoint le monde, il doit se mettre en allianc
 
 **10 - V**\
 Le PvP (le fait de pouvoir tuer quelqu'un d'autre) est activé seulement entre les alliés. Cela permet d'éviter le freekill lié au freeaccess.
+
+## **Article 11 - Culture de l'Empire**
+
+# Article 11B - L'Arène
+
+**11B - I**\
+Les maires et l'Empereur ne peuvent combattre dans l'arène.
+
+**11B - II**\
+30 victoires consécutives permettent de décrocher le titre de Champion de l'Arène.
+
+**11B - III**\
+Un Champion de l'Arène devient dans un même temps un Garde-palais impérial.
+
+**11B - IV**\
+Un Garde-palais impérial a le droit d'avoir une armure entière en acier au même titre que l'Empereur.
+
+**11B - V**\
+Un Garde-palais impérial a le droit de sortir des armes de toute catégorie en toute circonstance.
+
+**11B - VI**\
+Un Garde-palais impérial doit suivre son Empereur et continuer à combattre dans l'Arène.
+
+**11B - VII**\
+Un Garde-palais impérial a un pouvoir de choisir des lois supérieur à celui du Maire.
+
+**11B - VIII**\
+Un Garde-palais impérial gagne le triple de la somme à gagner en Arène qu'en temps normal.
+
+**11B - IX**\
+Un Garde-palais impérial avec 60 victoires consécutives devient le Général-garde impérial de l'Empire tout entier.
+
+**11B - X**\
+Un Général-garde impérial a une pouvoir total sur le service militaire de l'Empire et ne peut pas perdre son titre tant qu'un autre Garde-palais impérial n'a pas dépassé son score de victoires consécutives.
+
+## **Article 12 - Dérogations spéciales**
+
+**12 - I**\
+Un citoyen peut donner de la nourriture ou de l'eau à une personne mourante dans le besoin immédiat.
+
+
