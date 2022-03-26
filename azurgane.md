@@ -1,5 +1,9 @@
 # Constitution démocratique des Shérifs
 
+Si vide juridique, le Shérif est le seul à avoir le dernier mot.\
+Le Shérif représente l'autorité juridique, militaire et économique la plus élevée, en dessous de la constitution.\
+Le Shérif ne peut pas surpasser la constitution.
+
 ### Vocabulaire
 
 `priorité absolue`\
@@ -63,3 +67,9 @@ VIII. J'ai le droit de refuser un travail forcé, en payant 15 Jollars pour chaq
 IX. J'ai le droit de demander des équipements de travail ou de défense, si disponibilité.\
 X. J'ai le droit de demander de l'eau, si disponibilité.\
 XI. J'ai le droit de planter 2 cultures dans mon logement principal.
+
+## Article 5: Futur
+
+I. Le Shérif ne pourra pas modifier la constitution de lui même sans la majorité absolue pour chaque ligne ajoutée ou modifiée.\
+II. Le Shérif doit informer, débattre, et obtenir la majoritée absolue pour engendrer une modification ou ajout de ligne à la constitution.\
+III. La constitution définitive prend effet le 27 mars 2022.
