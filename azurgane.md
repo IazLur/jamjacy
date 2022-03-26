@@ -41,9 +41,14 @@ VII Je peux acheter 1m² de nouveau territoire à étendre pour 50 Jollars.\
 VIII. Je peux convertir un territoire >20m² en petit-commerce contre 100 Jollars.\
 IX. Je peux vendre une ressource de base (naturelle, non transformée) dans mon petit-commerce.\
 X. Mon petit-commerce n'aura aucun matériel de production.\
-XI. Un dixième de ma production devra être fourni au Shérif s'il le demande, à n'importe quelle moment.\
-XII. Je peux convertir un petit-commerce >60m² en commerce.\
-XIII. Mon commerce pourra produire un type de ressource avec un matériel de production.
+XI. Un tiers de ma production devra être fourni au Shérif s'il le demande, à n'importe quel moment, une fois par Lune de sang.\
+XII. Je peux convertir un petit-commerce >60m² en commerce contre 250 Jollars.\
+XIII. Mon commerce pourra produire un type de ressource transformée avec un matériel de production.\
+XIV. Mon commerce pourra vendre cette ressource transformée, uniquement.\
+XV. Je peux convertir un commerce en marché-territorial >100m² contre 500 Jollars.\
+XVI. Mon marché-territorial pourra vendre la ressource transformée ainsi que toutes celles utilisées à sa fabrication.\
+XVII. Un quart de ma production devra être fournie au Shérif en cas de commerce.\
+XVIII. Un dixième de ma production devra être fournie au Shérif en cas de marché-territorial sur chaque produit vendu.
 
 ### Article 4: Droit
 
