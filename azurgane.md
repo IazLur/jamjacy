@@ -12,14 +12,14 @@ Il est de mon devoir sur l'honneur de ne déroger à aucune interdiction écrite
 
 Tu es un cowboy, sous la tutelle du Shérif (anciennement dénommé Empereur).\
 Tu respecteras à la lettre et feras preuve d'une droiture irréprochable sur la constitution.\
-Tu connaîtras la constitution par coeur.\ 
+Tu connaîtras la constitution par coeur.
 
 ## Article 1: Égo
 
 I. Je ne tuerai point d'humain.\
 II. Je ferai preuve de retenue.\
 III. Je ferai preuve de respect.\
-IV. Je ne volerai point.\
+IV. Je ne volerai point.
 
 ## Article 2: Azurgane
 
@@ -27,7 +27,7 @@ I. La ville est ma priorité absolue.\
 II. Je ne planterai point, toute graine comprise.\
 III. La défense de la ville est ma priorité absolue.\
 IV. Je ne détruirai point.\
-V. Je n'utiliserai point de matériel, excepté le feu de camp.\
+V. Je n'utiliserai point de matériel, excepté le feu de camp.
 
 ### Article 3: Travail
 
@@ -43,7 +43,7 @@ IX. Je peux vendre une ressource de base (naturelle, non transformée) dans mon 
 X. Mon petit-commerce n'aura aucun matériel de production.\
 XI. Un dixième de ma production devra être fourni au Shérif s'il le demande, à n'importe quelle moment.\
 XII. Je peux convertir un petit-commerce >60m² en commerce.\
-XIII. Mon commerce pourra produire un type de ressource avec un matériel de production.\
+XIII. Mon commerce pourra produire un type de ressource avec un matériel de production.
 
 ### Article 4: Droit
 
@@ -51,4 +51,4 @@ I. Je peux demander la modification de la constitution sur approation du Shérif
 II. Je peux demander de la nourriture si je meurs de famine, si disponibilité.\
 III. Je peux contester un acte du Shérif si il va à l'encontre de mes droits éthiques.\
 IV. Si je conteste, je dois rédiger un rapport d'au moins 5 phrases motivant ma plainte.\
-V. Si ma contestation est jugée complète et acceptable, je reçois une indemnisation de 25 Jollars.\
+V. Si ma contestation est jugée complète et acceptable, je reçois une indemnisation de 25 Jollars.
