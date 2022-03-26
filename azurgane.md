@@ -29,7 +29,7 @@ III. La défense de la ville est ma priorité absolue.\
 IV. Je ne détruirai point.\
 V. Je n'utiliserai point de matériel, excepté le feu de camp.
 
-### Article 3: Travail
+## Article 3: Travail
 
 I. Je m'exécuterai sur les travaux humanitaires communs.\
 II. Je peux réclamer une part, répartie sur le nombre d'ayant-droit, d'un travail humanitaire commun.\
@@ -50,10 +50,16 @@ XVI. Mon marché-territorial pourra vendre la ressource transformée ainsi que t
 XVII. Un quart de ma production devra être fournie au Shérif en cas de commerce.\
 XVIII. Un dixième de ma production devra être fournie au Shérif en cas de marché-territorial sur chaque produit vendu.
 
-### Article 4: Droit
+## Article 4: Droit
 
-I. Je peux demander la modification de la constitution sur approation du Shérif contre 10 Jollars.\
-II. Je peux demander de la nourriture si je meurs de famine, si disponibilité.\
-III. Je peux contester un acte du Shérif si il va à l'encontre de mes droits éthiques.\
+I. J'ai le droit de demander la modification de la constitution sur approbation du Shérif contre 10 Jollars.\
+II. J'ai le droit de demander de la nourriture si je meurs de famine, si disponibilité.\
+III. J'ai le droit de contester un acte/action/demande du Shérif si il va à l'encontre de mes droits éthiques.\
 IV. Si je conteste, je dois rédiger un rapport d'au moins 5 phrases motivant ma plainte.\
-V. Si ma contestation est jugée complète et acceptable, je reçois une indemnisation de 25 Jollars.
+V. Si ma contestation est jugée complète et acceptable, je reçois une indemnisation de 25 Jollars.\
+VI. J'ai le droit de me loger, et de me défendre en cas de menace de mort.\
+VII. J'ai le droit au respect inviolable de ma vie privée dans mon logement principal.\
+VIII. J'ai le droit de refuser un travail forcé, en payant 15 Jollars pour chaque heure.\
+IX. J'ai le droit de demander des équipements de travail ou de défense, si disponibilité.\
+X. J'ai le droit de demander de l'eau, si disponibilité.\
+XI. J'ai le droit de planter 2 cultures dans mon logement principal.
