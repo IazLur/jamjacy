@@ -73,3 +73,10 @@ XI. J'ai le droit de planter 2 cultures dans mon logement principal.
 I. Le Shérif ne pourra pas modifier la constitution de lui même sans la majorité absolue pour chaque ligne ajoutée ou modifiée.\
 II. Le Shérif doit informer, débattre, et obtenir la majoritée absolue pour engendrer une modification ou ajout de ligne à la constitution.\
 III. La constitution définitive prend effet le 27 mars 2022.
+
+## Article 6 du 29 mars 2022: Zone naturelle
+
+I. Une zone naturelle protégée d'au moins 200 mètres carrés est proposé aux citoyens.\
+II. Un citoyen peut entrer dans la zone naturelle protégée pour 2 jollars.\
+III. Un citoyen peut planter n'importe quel arbre dans la zone.\
+IV. Un citoyen peut récolter autant de bois que nécessaire dans la zone.
